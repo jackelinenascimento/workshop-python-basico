@@ -4,10 +4,12 @@ Bem-vinda ao workshop de Python básico! Neste workshop, vamos explorar os funda
 
 ## Ementa
 
-1. [Variáveis e Tipos](material/01.%20Variaveis%20e%20Tipos.md)
-2. [Estruturas de Controle](material/02.%20Estruturas%20de%20Controle.md)
-3. [Funções](material/03.%20Funções.md.md)
-4. [Módulos](material/04.%20Módulos.md)
+1. [Cronograma](cronograma/cronograma.md)
+2. [Variáveis e Tipos](conteudo/01.%20Variaveis%20e%20Tipos.md)
+3. [Estruturas de Controle](conteudo/02.%20Estruturas%20de%20Controle.md)
+4. [Funções](material/03.%20Funções.md.md)
+5. [Módulos](material/04.%20Módulos.md)
+6. [Projeto](projeto/projeto.md)
 
 ## Objetivo
 
@@ -28,6 +30,7 @@ Para participar deste workshop, você precisará:
 ## Estrutura do Repositório
 
 - **conteudo/**: Contém materiais e exemplos para cada tópico.
+- **cronograma/**: Contém o cronograma do workshop.
 - **projeto/**: Contém a aplicação de cadastro que será desenvolvida no workshop.
 - **README.md**: Este arquivo, com uma visão geral do workshop.
 
