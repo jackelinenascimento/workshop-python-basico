@@ -1,13 +1,13 @@
 # Workshop de Python Básico
 
-Bem-vindo ao workshop de Python básico! Neste workshop, vamos explorar os fundamentos da linguagem Python e desenvolver uma aplicação simples de cadastro que será exibida no terminal.
+Bem-vinda ao workshop de Python básico! Neste workshop, vamos explorar os fundamentos da linguagem Python e desenvolver uma aplicação simples de cadastro que será exibida no terminal.
 
 ## Ementa
 
 1. [Variáveis e Tipos](material/01.%20Variaveis%20e%20Tipos.md)
-2. Estruturas de Controle
-3. Funções
-4. Módulos
+2. [Estruturas de Controle](material/02.%20Estruturas%20de%20Controle.md)
+3. [Funções](material/03.%20Funções.md.md)
+4. [Módulos](material/04.%20Módulos.md)
 
 ## Objetivo
 
@@ -22,8 +22,8 @@ Para participar deste workshop, você precisará:
 2. **Editor de Código**: Recomendamos o Visual Studio Code (VS Code). Se ainda não o tiver, você pode baixá-lo [aqui](https://code.visualstudio.com/).
 
 3. **Extensões do VS Code**:
-   - Python: Para suporte ao Python.
-   - Pylint: Para linting e formatação de código.
+    - Python: Para suporte ao Python.
+    - Pylint: Para linting e formatação de código.
 
 ## Estrutura do Repositório
 
@@ -34,6 +34,22 @@ Para participar deste workshop, você precisará:
 ## Para Quem é Recomendado
 
 Este workshop é ideal para iniciantes em programação ou para aqueles que desejam aprender os fundamentos da linguagem Python. Não é necessário ter experiência prévia em programação, mas ter um computador com os requisitos acima instalados ajudará a seguir o workshop com mais facilidade.
+
+## Quem ministra esse workshop? 
+
+Jackie Nascimento
+
+<p><img src="./assets/jackeline.jpg" alt="foto jackie" width="200"></p>
+
+Matemática e engenheira de software, fiz transição de carreira aos 34 anos e me encontrei na intersecção entre educação e tecnologia.
+
+Atuo na área tech desde 2019 no lado Backend da força! 🖤👑
+
+* 💌 Email: jackeline_nascimento@hotmail.com
+* 📸 Instagram: [@jackienascimento_](https://instagram.com/jackienascimento_)
+* 💼 LinkedIn: [in/jackelinenascimento](https://linkedin.com/in/jackelinenascimento)
+* 👩‍💻 Github: [jackelinenascimento](https://github.com/jackelinenascimento)
+
 
 ***
 
