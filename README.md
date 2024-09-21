@@ -4,12 +4,12 @@ Bem-vinda ao workshop de Python básico! Neste workshop, vamos explorar os funda
 
 ## Ementa
 
-1. [Cronograma](cronograma/cronograma.md)
+1. [Cronograma](cronograma/README.md)
 2. [Variáveis e Tipos](conteudo/01.%20Variaveis%20e%20Tipos.md)
 3. [Estruturas de Controle](conteudo/02.%20Estruturas%20de%20Controle.md)
 4. [Funções](conteudo/03.%20Funções.md)
 5. [Módulos](conteudo/04.%20Módulos.md)
-6. [Projeto](projeto/projeto.md)
+6. [Projeto](projeto/README.md)
 
 ## Objetivo
 
