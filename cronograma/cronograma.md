@@ -1,5 +1,3 @@
-# Cronograma do Workshop de Python Básico
-
 ## Introdução (10 minutos)
 - Boas-vindas e introdução ao workshop
 - Visão geral dos objetivos e ementa
@@ -8,25 +6,18 @@
 - Alunas já devem ter instalado o Python e o VS Code
 - Instalação das extensões necessárias
 
-## Variáveis e Tipos (20 minutos)
-- Conceitos básicos de variáveis e tipos de dados
-
-## Estruturas de Controle (20 minutos)
-- Introdução às estruturas de controle: `if`, `for`, `while`
-
-## Funções (30 minutos)
-- Definição e uso de funções
-- Parâmetros e retorno de valores
-
-## Módulos (30 minutos)
-- Importação e uso de módulos em Python
-
-## Desenvolvimento da Aplicação de Cadastro (90 minutos)
+## Desenvolvimento da Aplicação de Cadastro (3 horas)
 - Introdução ao projeto de cadastro
-- Desenvolvimento passo a passo da aplicação
+- Configuração inicial do projeto
+- Desenvolvimento passo a passo da aplicação:
+  - Conceitos básicos de variáveis e tipos de dados
+  - Estruturas de controle: `if`, `for`, `while`
+  - Definição e uso de funções
+  - Importação e uso de módulos em Python
 - Testes e validação
+- Sessão de perguntas e respostas durante o desenvolvimento
 
-## Perguntas e Respostas (10 minutos)
+## Perguntas e Respostas (20 minutos)
 - Sessão de perguntas e respostas
 - Discussão sobre desafios e conceitos abordados
 
